@@ -1,16 +1,26 @@
-## Hi there 👋
+# Kartik Yadav
 
-<!--
-**krrtk/krrtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year CS undergrad at VIT Chennai building ML systems from mathematical 
+first principles.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LLM from scratch** — decoder-only Transformer with BPE tokenizer, 
+  multi-head attention, LayerNorm, GELU. Full matrix-level implementation 
+  in PyTorch. [(repo)](https://github.com/krrtk/llm-from-scratch)
+- **Neural Network from scratch** — backprop, gradient descent, modular 
+  activations, MNIST validation. No PyTorch, just NumPy. 
+  [(repo)](https://github.com/krrtk/neural-network-from-scratch)
+- **Phishing Detector** — CNN achieving 95% accuracy on 32 website 
+  attributes, deployed as a REST API. SIH 2025 . 
+  [(repo)](https://github.com/krrtk/malicious-website-detector)
+
+## Stats that matter
+- 9.1 CGPA · Knight(top 25%) @ LeetCode 
+- Currently learning: Transformer internals · MLOps · System Design
+
+## Stack
+Python · PyTorch · NumPy · Scikit-learn · FastAPI · Linux · SQL
+
+📍 Chennai · 📧 krtkpersonal@gmail.com · 
+[LinkedIn](https://linkedin.com/in/yourhandle)
