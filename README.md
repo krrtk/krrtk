@@ -10,7 +10,7 @@ first principles.
   in PyTorch. [(repo)](https://github.com/krrtk/llm-from-scratch)
 - **Neural Network from scratch** — backprop, gradient descent, modular 
   activations, MNIST validation. No PyTorch, just NumPy. 
-  [(repo)](https://github.com/krrtk/Neural-network-from-scratch)
+  [(repo)](https://github.com/krrtk/Neural-net-from-scratch)
 - **Phishing Detector** — CNN achieving 95% accuracy on 32 website 
   attributes, deployed as a REST API. SIH 2025 . 
   [(repo)](https://github.com/krrtk/malicious-website-detector)
