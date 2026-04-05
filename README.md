@@ -23,4 +23,4 @@ first principles.
 Python · PyTorch · NumPy · Scikit-learn · FastAPI · Linux · SQL
 
 📍 Chennai · 📧 krtkpersonal@gmail.com · 
-[LinkedIn]([https://www.linkedin.com/in/kartik-yadav-61aa04274/])
+[LinkedIn](https://www.linkedin.com/in/kartik-yadav-61aa04274/)
