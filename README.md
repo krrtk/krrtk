@@ -16,7 +16,7 @@ first principles.
   [(repo)](https://github.com/krrtk/malicious-website-detector)
 
 ## Stats that matter
-- 9.1 CGPA · Knight(top 25%) @ LeetCode 
+- 9.1 CGPA · top 26% coders @ [LeetCode](https://leetcode.com/u/kartikyadav_kenshi/) 
 - Currently learning: Transformer internals · MLOps · System Design
 
 ## Stack
